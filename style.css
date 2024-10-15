@@ -58,10 +58,10 @@ body {
 }
 .input-box  i {
     position: absolute;
-    right: 700px;
-    top: 50%;
+    right: 10px;
+    top: 20%;
     transform: translate(-50%);
-    font-size: 50px;
+    font-size: 20px;
 }
 
 .wrapper .remeber-forgot {
